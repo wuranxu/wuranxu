@@ -9,6 +9,7 @@
 - 🔭 Ctrip TestDevelper
 - 📫 Base Shanghai
 - 💬 Wechat: wuranxu
+- 👍 be good at Python/Go/React, be similar to Java
 - ⚡ [cnblogs](https://www.cnblogs.com/we8fans/)
 - 🔥 [简书](https://www.jianshu.com/u/6a6dc9fd898d)
 - 😄 公众号: ![](https://gitee.com/woodywrx/picture/raw/master/2021-8-7/1628267097936-qrcode_for_gh_554fe7a74955_258.jpg)
@@ -18,6 +19,7 @@
 - 🔭 测试开发工程师
 - 📫 上海
 - 💬 微信: wuranxu
+- 👍 擅长Python/Go/React, 熟悉Java
 - ⚡ [博客园](https://www.cnblogs.com/we8fans/)
 - 🔥 [简书](https://www.jianshu.com/u/6a6dc9fd898d)
 - 😄 公众号: ![](https://gitee.com/woodywrx/picture/raw/master/2021-8-7/1628267097936-qrcode_for_gh_554fe7a74955_258.jpg)
